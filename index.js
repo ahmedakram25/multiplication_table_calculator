@@ -19,7 +19,10 @@ let x,y;
 
     function n1(){
         x = 1;
+        ans.textContent = `${x}`
 mult.onclick = function(){
+        ans.textContent = `${x} ✖️`
+
         num1.onclick = function(){
             y = 1;
             ans.textContent = `${x} ✖️ ${y} = ${x * y}`;
@@ -70,7 +73,9 @@ mult.onclick = function(){
 }
     function n2(){
         x = 2;
+        ans.textContent = `${x}`
 mult.onclick = function(){
+    ans.textContent = `${x} ✖️`
         num1.onclick = function(){
             y = 1;
             ans.textContent = `${x} ✖️ ${y} = ${x * y}`;
@@ -121,7 +126,9 @@ mult.onclick = function(){
 }
     function n3(){
         x = 3;
+        ans.textContent = `${x}`
 mult.onclick = function(){
+    ans.textContent = `${x} ✖️`
         num1.onclick = function(){
             y = 1;
             ans.textContent = `${x} ✖️ ${y} = ${x * y}`;
@@ -172,7 +179,9 @@ mult.onclick = function(){
 }
     function n4(){
         x = 4;
+        ans.textContent = `${x}`
 mult.onclick = function(){
+    ans.textContent = `${x} ✖️`
         num1.onclick = function(){
             y = 1;
             ans.textContent = `${x} ✖️ ${y} = ${x * y}`;
@@ -223,7 +232,9 @@ mult.onclick = function(){
 }
     function n5(){
         x = 5;
+        ans.textContent = `${x}`
 mult.onclick = function(){
+    ans.textContent = `${x} ✖️`
         num1.onclick = function(){
             y = 1;
             ans.textContent = `${x} ✖️ ${y} = ${x * y}`;
@@ -274,7 +285,9 @@ mult.onclick = function(){
 }
     function n6(){
         x = 6;
+        ans.textContent = `${x}`
 mult.onclick = function(){
+    ans.textContent = `${x} ✖️`
         num1.onclick = function(){
             y = 1;
             ans.textContent = `${x} ✖️ ${y} = ${x * y}`;
@@ -325,7 +338,9 @@ mult.onclick = function(){
 }
     function n7(){
         x = 7;
+        ans.textContent = `${x}`
 mult.onclick = function(){
+    ans.textContent = `${x} ✖️`
         num1.onclick = function(){
             y = 1;
             ans.textContent = `${x} ✖️ ${y} = ${x * y}`;
@@ -376,7 +391,9 @@ mult.onclick = function(){
 }
     function n8(){
         x = 8;
+        ans.textContent = `${x}`
 mult.onclick = function(){
+    ans.textContent = `${x} ✖️`
         num1.onclick = function(){
             y = 1;
             ans.textContent = `${x} ✖️ ${y} = ${x * y}`;
@@ -427,7 +444,9 @@ mult.onclick = function(){
 }
     function n9(){
         x = 9;
+        ans.textContent = `${x}`
 mult.onclick = function(){
+    ans.textContent = `${x} ✖️`
         num1.onclick = function(){
             y = 1;
             ans.textContent = `${x} ✖️ ${y} = ${x * y}`;
